@@ -12,7 +12,7 @@ apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
 
 jar {
-    baseName = 'home-assist'
+    baseName = 'home-assistant'
     version =  '0.1.0'
 }
 

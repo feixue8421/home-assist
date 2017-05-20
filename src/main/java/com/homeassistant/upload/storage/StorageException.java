@@ -1,4 +1,4 @@
-package com.homeassist.upload.storage;
+package com.homeassistant.upload.storage;
 
 public class StorageException extends RuntimeException {
 

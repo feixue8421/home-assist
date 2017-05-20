@@ -1,4 +1,4 @@
-package com.homeassist.upload;
+package com.homeassistant.upload;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 
-import com.homeassist.upload.storage.StorageProperties;
-import com.homeassist.upload.storage.StorageService;
+import com.homeassistant.upload.storage.StorageProperties;
+import com.homeassistant.upload.storage.StorageService;
 
 @SpringBootApplication
 @EnableConfigurationProperties(StorageProperties.class)

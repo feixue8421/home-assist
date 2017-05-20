@@ -1,4 +1,4 @@
-package com.homeassist.upload;
+package com.homeassistant.upload;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
@@ -11,8 +11,8 @@ import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.method.annotation.MvcUriComponentsBuilder;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.homeassist.upload.storage.StorageFileNotFoundException;
-import com.homeassist.upload.storage.StorageService;
+import com.homeassistant.upload.storage.StorageFileNotFoundException;
+import com.homeassistant.upload.storage.StorageService;
 
 import java.io.IOException;
 import java.util.stream.Collectors;

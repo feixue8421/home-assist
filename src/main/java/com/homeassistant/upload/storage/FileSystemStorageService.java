@@ -1,4 +1,4 @@
-package com.homeassist.upload.storage;
+package com.homeassistant.upload.storage;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;

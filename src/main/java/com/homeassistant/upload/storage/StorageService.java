@@ -1,4 +1,4 @@
-package com.homeassist.upload.storage;
+package com.homeassistant.upload.storage;
 
 import org.springframework.core.io.Resource;
 import org.springframework.web.multipart.MultipartFile;
